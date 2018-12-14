@@ -2,11 +2,11 @@
 
 ### Module I:
  
-####Introduction to Data Generation
-####Big data and small data
-####Theory: two cultures of statistics
-####Data analytics startup
-####R workshop 1
+Introduction to Data Generation<s>
+Big data and small data
+Theory: two cultures of statistics
+Data analytics startup
+R workshop 1
 
 ### Module II:
 Finding data: Collection and Production
